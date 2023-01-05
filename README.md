@@ -1,5 +1,6 @@
-# Portfolio
-Creating a temporary project portfolio and listing everything I used to create it. 
+# Portfolio v1
+# Goal 
+My goal for this project is to create a portfolio to showcase not only my future projects but growth as well. 
 
 Link to project 
 
