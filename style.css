@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Martel:400,700');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 75vh;
+    background-image: url("images/sebastian-svenson-LpbyDENbQQg-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+nav {
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.icon {
+    color: #000000;
+    font-family: 'Martel', sans-serif;
+    font-weight: 700;
+    letter-spacing: 10px;
+    cursor: default;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Martel', sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    height: 10vh;
+    background-color: white;
+    margin: 5% 0 0 0;
+}
+
+hr {
+    width: 5%;
+    background-color: #ebc2ad;
+    margin: 0 20px;
+    border: none;
+    height: 2px;
+}
+
+.project__container {
+    padding: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    height: 600px;
+    width: 500px;
+    border: 5px;
+    background-color: #ebc2ad;
+    margin: 10px;
+}
+
+footer {
+    position: absolute;
+    background-color: #ebc2ad;
+    height: 30vh;
+    width: 100%;
+}
