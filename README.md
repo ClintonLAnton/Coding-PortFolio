@@ -2,7 +2,7 @@
 # Goal 
 My goal for this project is to create a portfolio to showcase not only my future projects but growth as well. 
 
-Link to project - https://raw.githack.com/ClintonLAnton/Coding-PortFolio/main/index.html
+Link to project - https://htmlpreview.github.io/?https://github.com/ClintonLAnton/Coding-PortFolio/blob/master/index.html
 
 # How it's made:
 <bold>Tech used:<bold> HTML, CSS
